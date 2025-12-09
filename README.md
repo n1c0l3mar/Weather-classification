@@ -8,7 +8,7 @@ This project focuses on building a deep learning model to classify weather condi
 ## Dataset 
 We use the Weather Dataset from Kaggle, which contains a large collection of labeled weather images spanning multiple conditions. This dataset provides enough variation to train, validate, and evaluate our model effectively, making it well-suited for image-based weather classification tasks.
 
-[Weather Dataset (Kaggle)](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
+Link to dataset: [Weather Dataset (Kaggle)](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
 ## Directory 
 ### Baseline Models 
