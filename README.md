@@ -1,7 +1,10 @@
-# Weather-classification
+# Weather Image Classification
 
 ## Introduction
 This repository contains our work for a weather image classification project, where we aim to build a deep learning model capable of recognizing weather conditions from images. Throughout the project, we perform data preprocessing, exploratory analysis, and multiple modeling attempts using CNN-based models.
 
 ## Directory 
-`final_interim_report.html` - A milestone progress report covering data exploration, modeling attempts, results, and next steps.
+- `final_interim_report.html` - A milestone progress report covering data exploration, modeling attempts, results, and next steps.
+- `preliminary_model.ipynb` - Baseline model setup and initial training runs.
+- `preliminary_model_updated.ipynb` - Updated version of the baseline model with improved structure and training adjustments.
+- `model_attempt2.ipynb` - 
