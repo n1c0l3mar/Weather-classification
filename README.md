@@ -3,10 +3,10 @@
 Team Members: Isabella Toth, Sana Nanlawala, Nicole Marcatoma 
 
 ## Introduction
-This repository contains our work for a weather image classification project, where we aim to build a deep learning model capable of recognizing weather conditions from images. Throughout the project, we perform data preprocessing, exploratory analysis, and multiple modeling attempts using CNN-based models.
+This project focuses on building a deep learning model to classify weather conditions from images. Our goal is to accurately recognize different weather types by training a CNN-based model on a labeled image dataset. Throughout the process, we performed data preprocessing, exploratory analysis, and iterated through multiple model attempts to improve performance and generalization.
 
 ## Dataset 
-This project utilizes the Weather Dataset from Kaggle, which contains a collection of labeled weather images. The dataset includes diverse weather conditions, making it suitable for training and evaluating deep learning models.
+We use the Weather Dataset from Kaggle, which contains a large collection of labeled weather images spanning multiple conditions. This dataset provides enough variation to train, validate, and evaluate our model effectively, making it well-suited for image-based weather classification tasks.
 
 [Weather Dataset (Kaggle)](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
 
