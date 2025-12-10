@@ -30,7 +30,10 @@ Link to dataset: [Weather Dataset (Kaggle)](https://www.kaggle.com/datasets/jeha
 
 ## Key Results
 
-![alt text](image-url)
+![Metrics](metrics.png)
+
+![Final Metrics](final-model-metrics.png)
+
 
 ## Notes on Reproducability
 - Dataset can be accessed here, as it is too large over Github [Weather Dataset (Kaggle)](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
