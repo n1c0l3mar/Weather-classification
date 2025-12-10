@@ -3,7 +3,7 @@
 Team Members: Isabella Toth, Sana Nanlawala, Nicole Marcatoma 
 
 ## Introduction
-This project focuses on building a deep learning model to classify weather conditions from images. Our goal is to accurately recognize different weather types by training a CNN-based model on a labeled image dataset. Throughout the process, we performed data preprocessing, exploratory analysis, and iterated through multiple model attempts to improve performance and generalization.
+Manual identification of weather from images is slow, inconsistent, and difficult to scale, especially for real-time use. Automation could improve environmental monitoring, transportation safety, agriculture, and disaster response, where timely weather recognition matters. This project focuses on building a deep learning model to classify weather conditions from images. Our goal is to accurately recognize different weather types by training a CNN-based model on a labeled image dataset. Throughout the process, we performed data preprocessing, exploratory analysis, and iterated through multiple model attempts to improve performance and generalization.
 
 ## Dataset 
 We use the Weather Dataset from Kaggle, which contains a large collection of labeled weather images spanning multiple conditions. This dataset provides enough variation to train, validate, and evaluate our model effectively, making it well-suited for image-based weather classification tasks.
@@ -29,9 +29,12 @@ Link to dataset: [Weather Dataset (Kaggle)](https://www.kaggle.com/datasets/jeha
 - `figures` - Folder containing our plots from our presentation. 
 
 ## Key Results
-Summary of key results here "You may reuse plots or metrics from your final presentation slides." 
+
+![alt text](image-url)
 
 ## Notes on Reproducability
 - Dataset can be accessed here, as it is too large over Github [Weather Dataset (Kaggle)](https://www.kaggle.com/datasets/jehanbhathena/weather-dataset)
-- `Pyproject.toml` has dependencies and python requirements listed
+- `pyproject.toml` has dependencies and python requirements listed
 - GPU is preferred over CPU to run models more efficiently
+
+Link to presentation: [Weather Classification](https://docs.google.com/presentation/d/15wyyW8vrFRf-gUxqAQqmWRKfeO6eIrk3__d2vayoMX4/edit?usp=sharing) 
